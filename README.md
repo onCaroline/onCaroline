@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Me chamo Caroline Nunes, prazer em te conhecer! 👋
 
-<!--
-**onCaroline/onCaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como QA;
+- 🌱 Estou aprendendo JavaScript;
 
-Here are some ideas to get you started:
+<img src="https://github.com/onCaroline/onCaroline/assets/129281190/ff743e4f-29fb-4437-9732-f18822b62df3" width="250" height="250"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onCaroline&show_icons=true&theme=dark)
+
+
+
+
+
+
+
+
+
+
+
+
