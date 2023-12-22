@@ -1,4 +1,4 @@
-### Olá! Me chamo Caroline Nunes, prazer em te conhecer! 👋
+### Olá, me chamo Caroline Nunes, prazer em te conhecer! 👋
 
 - 🔭 Atualmente trabalho como QA;
 - 🌱 Estou aprendendo JavaScript;
